@@ -1,5 +1,5 @@
 # Java
-This is the page is created for the Java Programs.
+Java is the most demanding language Realtime World now. As we know the Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible.
 # Java Programs
 1. Numbering System Programs
 2. Digit Programs
